@@ -1,1 +1,1 @@
-Thi is una file with many hello!!!.
+Thi is una file with many hello!!!. Keep this sentence when merging
